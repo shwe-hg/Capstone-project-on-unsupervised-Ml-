@@ -1,17 +1,17 @@
 # Capstone-project-on-unsupervised-Ml-
 
-##To ensure an optimal user experience and prevent subscriber churn, it is essential for Netflix, the world's leading online streaming service provider with over 220 million subscribers as of 2022, to effectively cluster the shows on their platform..
+## To ensure an optimal user experience and prevent subscriber churn, it is essential for Netflix, the world's leading online streaming service provider with over 220 million subscribers as of 2022, to effectively cluster the shows on their platform..
 
-#Problem Statement
+# Problem Statement
 
-##The goal of this project is to analyze the Netflix catalog of movies and TV shows, which was sourced from the third-party search engine Flixable, and group them into relevant clusters. This will aid in enhancing the user experience and prevent subscriber churn for the world's largest online streaming service provider, Netflix, which currently boasts over 220 million subscribers as of 2022-Q2. The dataset, which includes movies and TV shows as of 2019, will be analyzed to uncover new insights and trends in the rapidly growing world of streaming entertainment.
+## The goal of this project is to analyze the Netflix catalog of movies and TV shows, which was sourced from the third-party search engine Flixable, and group them into relevant clusters. This will aid in enhancing the user experience and prevent subscriber churn for the world's largest online streaming service provider, Netflix, which currently boasts over 220 million subscribers as of 2022-Q2. The dataset, which includes movies and TV shows as of 2019, will be analyzed to uncover new insights and trends in the rapidly growing world of streaming entertainment.
 
-##Objective
+## Objective
 
-###The objective of this project is to organize the Netflix shows into distinct clusters, where the shows within a cluster are alike and the shows in different clusters are dissimilar to one another.
+### The objective of this project is to organize the Netflix shows into distinct clusters, where the shows within a cluster are alike and the shows in different clusters are dissimilar to one another.
 
 
-##Dataset
+## Dataset
 
 The dataset used in this project is sourced from Flixable, a third-party Netflix search engine. The data includes information on all movies and TV shows available on the streaming platform as of 2019, with a total of 7787 records and 12 attributes. Each attribute provides specific information about the movie or TV show.
 
@@ -68,7 +68,7 @@ ploting graphs for getting the clear information about dataset.
 
 3.Box Plot
 
-##Textual Data Preprocessing
+## Textual Data Preprocessing
 
 >> Clustering Attributes
 
@@ -90,7 +90,7 @@ ploting graphs for getting the clear information about dataset.
 
 >> PCA (Principle Component Analysis)
 
-##Model Building
+## Model Building
 
 >> Clustering Implemention
 
@@ -107,7 +107,7 @@ ploting graphs for getting the clear information about dataset.
 >> Content Based Recommendation System
 
 
-##Conclusion
+## Conclusion
 
 >> In this project, we worked on a text clustering problem wherein we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
 
